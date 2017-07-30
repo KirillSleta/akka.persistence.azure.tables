@@ -2,7 +2,11 @@
 
 Akka Persistence journal and snapshot store backed by Azure Table service.
 
-.NET Standart 1.6 package
+
+
+[![Build status](https://ci.appveyor.com/api/projects/status/hdfc6w3b1j0xgiwy?svg=true)](https://ci.appveyor.com/project/KirillSleta/akka-persistence-azure-tables)
+
+[.NET Standart 1.6 package CI NuGet feed](https://ci.appveyor.com/nuget/akka-persistence-azure-tables-k811qqasjc4h)
 
 ## Configuration
 
